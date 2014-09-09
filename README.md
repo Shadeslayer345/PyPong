@@ -10,8 +10,8 @@ Started as a side project from Freshman Year in college to test my skills and ad
  
 The idea behind the game is the classic Pong game with some added feature for the 21st Century like:
   Powerups!!!
-    - The Racquest(Paddles, Blocks, whatever you call them) will have various wacky power ups
-    - The Balls will also have some crazy creative powerups for you to play around with
+    - The Racquets(Paddles, Blocks, whatever you call them) will have various wacky power ups
+    - The Ball will also have some crazy creative powerups for you to play around with
   Colors!!!
     - The classic game was tons of fun but now it needs a much deserved make over
     - We'll add some splashes of color and even some backgrounds to make the game attractive
